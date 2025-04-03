@@ -14,12 +14,22 @@
 独特的Mix-in系统，可以在工具箱注入汇编代码
 ## 开发者名单
 Drumda | UI & 代码
+
 Runs 科技社区 | 提供技术支持
+
 Rainbow Mini Team | 提供技术支持
+
 Nanxing Snake | 测试
+
 Ain | 测试
-联系方式：
+
+### 联系方式：
+
 Drumda QQ:2877569528
+
 Runs 科技社区 ①739778458
+
 Runs 破土交流群 QQ:1021361487
+
 Rainbow Mini Team QQ:694253039
+
