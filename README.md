@@ -19,7 +19,7 @@ Runs 科技社区 | 提供技术支持
 
 Rainbow Mini Team | 提供技术支持
 
-Nanxing Snake | 测试
+Nanxing Snake | 测试 & UI设计
 
 Ain | 测试
 
