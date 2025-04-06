@@ -16,14 +16,17 @@
 ## 开发者名单
 Drumda | UI & 代码
 
-Runs 科技社区 | 提供技术支持
-
-Rainbow Mini Team | 提供技术支持
-
-Nanxing Snake | 测试 & UI设计
+Nanxing Snake | 测试 UI设计 代码
 
 Ain | 测试
 
+NULL | 测试
+
+CHzzl | 测试
+
+Runs 科技社区 | 提供技术支持
+
+Rainbow Mini Team | 提供技术支持
 ### 联系方式：
 
 Drumda QQ:2877569528
